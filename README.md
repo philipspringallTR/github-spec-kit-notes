@@ -12,8 +12,8 @@ practical reference rather than a step‑by‑step tutorial.
 
 ## Contents
 
-- Spec Kit setup
-- Case study
+- [Spec Kit setup](docs/spec-kit-setup.md)
+- [Case study](docs/case-study.md)
 
 ## Audience
 
