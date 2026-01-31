@@ -226,6 +226,3 @@ The GitHub SpecKit process provided a structured, traceable approach to AI-assis
 
 The Accessible Copy Checker demonstrates that complex applications can be built with AI assistance when proper specifications and constraints are established upfront.
 
----
-- [A11y Content Spec Kit Story](./a11y-content-spec-kit-story.md)
-- [Saffron Implementation Guide](../saffron-implementation.md)
